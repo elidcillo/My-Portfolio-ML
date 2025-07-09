@@ -1,8 +1,8 @@
 User-agent: *
 Allow: /
 
-# Sitemap location (update with your actual domain)
-Sitemap: https://your-domain.com/sitemap.xml
+# Sitemap location
+Sitemap: https://elidcillo.github.io/My-Portfolio-ML/sitemap.xml
 
 # Crawl delay (optional)
 Crawl-delay: 1
